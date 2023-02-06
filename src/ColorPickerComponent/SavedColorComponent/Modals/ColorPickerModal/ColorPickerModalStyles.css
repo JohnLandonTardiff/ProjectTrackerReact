@@ -1,0 +1,17 @@
+.ColorPickerModal .ModalContainer {
+    max-width: none !important;
+    width: 50rem;
+}
+
+.ColorPickerModal .Buttons button{
+    margin-top: 1rem;
+    font-size: 1.5rem;
+}
+
+.ColorPickerModal .Button1 {
+    margin-left: 20% !important;
+} 
+
+.ColorPickerModal .Button2 {
+    margin-right: 20% !important;
+}

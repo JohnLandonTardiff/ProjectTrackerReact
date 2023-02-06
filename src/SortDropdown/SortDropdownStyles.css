@@ -1,0 +1,19 @@
+.SortDropdown {
+    width: 20rem;
+    height: 2rem;
+    margin: 0;
+}
+
+.SortDropdown * {
+    vertical-align: middle;
+    font-size: 1.25rem;
+    height: 100%;
+}
+
+.SortDropdown select {
+    width: 80%;
+}
+
+.SortDropdown button {
+    width: 20%;
+}

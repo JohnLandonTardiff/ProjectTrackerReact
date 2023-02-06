@@ -1,0 +1,66 @@
+/*Data Page Styles*/
+.PageContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.LeftContainer {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+}
+
+.RightContainer {
+    width: 20%;
+    margin-top: 5rem;
+}
+
+.PageContainer h1 {
+    text-align: center;
+    font-size: 3rem;
+    margin: 0 0 1rem 0;
+}
+
+.SortDropdownContainer {
+    width: 48rem;
+    margin: 0 auto;
+}
+
+
+/*Data List*/
+.DataList {
+    list-style-type: none;
+    padding: 0;
+    width: 100%;
+    margin: .5rem 0;
+}
+
+.DataList li {
+    width: 48rem;
+    height: 3rem;
+    margin: 0 auto;
+    margin-bottom: .25rem;
+}
+
+/*Data List Item*/
+.DataItemColor {
+    position: relative;
+    float: right;
+    outline: solid black;
+    outline-width: .15rem;
+    width: 3rem;
+    height: 75%;
+}
+
+.DataOption {
+    vertical-align: middle;
+    font-size: 1.5rem;
+    width: 10%;
+    height: 100%;
+}
+
+.AddData {
+    width: 100%;
+    height: 100%;
+    font-size: 2rem;
+}

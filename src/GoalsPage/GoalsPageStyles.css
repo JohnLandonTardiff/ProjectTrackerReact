@@ -1,0 +1,17 @@
+.GoalButton {
+    vertical-align: middle;
+    text-align: left;
+    font-size: 2rem;
+    width: 90%; 
+    height: 100%;
+    line-height: 100%;
+}
+
+button#back-button {
+    position: absolute;
+    width: 6rem;
+    height: 2.5rem;
+    line-height: 1.5rem;
+    font-size: 1.5rem;
+    margin-top: 1rem;
+}
